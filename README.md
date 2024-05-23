@@ -1,2 +1,3 @@
-# Cheonma-s-First-Repo-
-This is my first repository.
+# blablabla
+
+this is my first markdown. i don't know what am i supposed to write here.
